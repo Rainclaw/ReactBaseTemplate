@@ -15,7 +15,11 @@
   viii) Started the App using npm start
   ix) Successfully Displayed "Hello World"
 
-3) Learning how to do the Hot Reloading
+3) Learning how to do the Hot Reloading: 
+  i) Searched around the internet on what a hot reload is-
+    a) found 2 ways to do it using docker (Didnt work)
+    b)found a youtube video(Followed it step by step)
+  ii) Successfully added the functionality suing Gaeron library https://github.com/gaearon/react-hot-loader   
 
 
 
